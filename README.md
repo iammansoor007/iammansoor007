@@ -27,7 +27,6 @@ Hi, I'm Mansoor Shah — a passionate Full-Stack Developer who loves building mo
 📈 Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iammansoor007&theme=tokyo-night&hide_border=true" width="100%"/>
 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=iammansoor007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" />
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </div>
 <div align="center"> <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fiammansoor007&label=Profile%20Views&countColor=%23263759" /> </div>
 ⭐️ From Mansoor Shah
