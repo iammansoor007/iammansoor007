@@ -1,111 +1,115 @@
-<!-- HEADER -->
-<h1 align="center">Mansoor Shah</h1>
-<h3 align="center">Full-Stack Developer | Modern Web Architect | AI-Integrated Systems</h3>
-
+<!-- Animated Typing Header -->
 <p align="center">
-Building scalable, high-performance digital products with modern JavaScript ecosystems.
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Mansoor+Shah;Full-Stack+Engineer;Building+Scalable+Digital+Systems;Modern+Web+Architect;AI-Integrated+Applications" />
 </p>
 
 <p align="center">
-  <a href="mailto:ammansoor007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/themansoorshah">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/iammansoor007">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/i__mansooor">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  <strong>Engineer. Architect. Builder.</strong>
 </p>
 
 ---
 
-# 💎 About Me
+# 🚀 About
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+I design and engineer **scalable, production-grade web platforms**.
 
-I am a performance-focused Full-Stack Developer specializing in building:
+Not templates.  
+Not landing pages.  
+**Systems.**
 
-- ⚡ Scalable SaaS applications  
-- 🛒 High-converting business & e-commerce platforms  
-- 🔐 Secure authentication systems  
-- 📊 Admin dashboards & data systems  
-- 🤖 AI-powered web solutions  
+My work combines:
 
-I combine **engineering discipline**, **modern UI systems**, and **business logic thinking**.
+- High-performance frontend architecture  
+- Secure backend infrastructure  
+- Business-driven product thinking  
+- AI-powered integrations  
 
----
-
-# 🛠 Complete Tech Stack
-
-## 🎨 Frontend
-
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
-## ⚙ Backend
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-## 🗄 Databases
-
-<p>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
-## 🛒 E-Commerce & CMS
-
-<p>
-<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-</p>
-
-## 🤖 AI / Computer Vision
-
-<p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=mediapipe&logoColor=white"/>
-</p>
-
-## 🚀 DevOps & Tools
-
-<p>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+I build digital assets that scale.
 
 ---
 
-# 🧠 Core Expertise
+# 🧠 Engineering Philosophy
 
-✔ System Architecture  
-✔ REST API Development  
-✔ Authentication & Authorization  
-✔ SaaS Application Development  
-✔ Performance Optimization  
-✔ SEO-Structured Applications  
-✔ Headless CMS Integration  
-✔ Booking & Automation Systems  
+> Great products are engineered, not assembled.
+
+I focus on:
+
+- Clean modular architecture  
+- Maintainable codebases  
+- Performance optimization  
+- Real-world scalability  
+- Security-first backend systems  
+
+---
+
+# 🛠 Tech Infrastructure
+
+## Frontend Stack
+
+React • Next.js • TypeScript • Redux  
+Tailwind CSS • Advanced UI Systems  
+
+## Backend Systems
+
+Node.js • Express.js  
+REST APIs • JWT Authentication  
+Scalable API architecture  
+
+## Data Layer
+
+MongoDB • MySQL • Firebase  
+
+## AI / Vision
+
+TensorFlow • MediaPipe  
+
+## Deployment & DevOps
+
+Vercel • Netlify • GitHub CI/CD  
+
+---
+
+# 🧩 Featured Projects
+
+## 🏗 SaaS Dashboard System
+Full-stack multi-user dashboard with:
+
+- Role-based authentication  
+- JWT security  
+- Dynamic analytics  
+- Admin management panel  
+- Scalable REST API backend  
+
+---
+
+## 🛒 E-Commerce Conversion Platform
+Custom storefront architecture featuring:
+
+- Optimized product pages  
+- Payment integration  
+- Headless CMS structure  
+- SEO-driven routing  
+- Performance tuning  
+
+---
+
+## 📅 Appointment Booking Engine
+Automated scheduling system with:
+
+- Dynamic time slot management  
+- Email confirmation flows  
+- Admin control panel  
+- Database-backed booking logic  
+
+---
+
+## 🤖 AI-Integrated Web Application
+Real-time browser-based AI features:
+
+- Computer vision integration  
+- TensorFlow inference  
+- Frontend model interaction  
+- Performance-optimized rendering  
 
 ---
 
@@ -117,7 +121,7 @@ I combine **engineering discipline**, **modern UI systems**, and **business logi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iammansoor007&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iammansoor007&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
@@ -125,25 +129,20 @@ I combine **engineering discipline**, **modern UI systems**, and **business logi
 # 🎯 Current Focus
 
 - Advanced Next.js architecture  
-- Backend scalability  
-- AI-integrated web systems  
-- Premium UI systems  
+- Distributed backend systems  
+- AI-powered SaaS products  
+- Product-first engineering  
 
 ---
 
-# 🤝 Let's Build Something Powerful
+# 📬 Connect
 
-If you want:
-
-• A high-converting website  
-• A scalable SaaS platform  
-• A custom web solution  
-• A modern redesign  
-
-📩 **ammansoor007@gmail.com**
+📩 ammansoor007@gmail.com  
+🔗 linkedin.com/in/themansoorshah  
+💻 github.com/iammansoor007  
 
 ---
 
 <p align="center">
-  <strong>Code with precision. Build with purpose.</strong>
+  <strong>Building the infrastructure behind modern digital products.</strong>
 </p>
