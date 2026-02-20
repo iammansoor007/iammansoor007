@@ -23,8 +23,7 @@ Hi, I'm Mansoor Shah — a passionate Full-Stack Developer who loves building mo
 <p> <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=mediapipe&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> </p>
 🛠️ Hosting & Tools
 <p> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> </p>
-📊 GitHub Stats:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iammansoor007&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.vercel.app/?user=iammansoor007&theme=tokyonight&hide_border=true" width="48%" /> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammansoor007&theme=tokyonight&hide_border=true&layout=compact" width="45%" /> </p>
+
 📈 Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iammansoor007&theme=tokyo-night&hide_border=true" width="100%"/>
 🏆 GitHub Trophies
