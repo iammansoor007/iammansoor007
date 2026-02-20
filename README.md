@@ -111,10 +111,7 @@ I combine **engineering discipline**, **modern UI systems**, and **business logi
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iammansoor007&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammansoor007&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iammansoor007&theme=tokyo-night&hide_border=true"/>
