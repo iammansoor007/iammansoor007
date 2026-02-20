@@ -1,3 +1,4 @@
+💫 About Me:
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 Hi, I'm Mansoor Shah — a passionate Full-Stack Developer who loves building modern web applications. I specialize in creating responsive, user-friendly websites and applications using the latest technologies.
 
@@ -23,41 +24,11 @@ Hi, I'm Mansoor Shah — a passionate Full-Stack Developer who loves building mo
 🛠️ Hosting & Tools
 <p> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> </p>
 📊 GitHub Stats:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iammansoor007&show_icons=true&theme=radical&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.vercel.app/?user=iammansoor007&theme=radical&hide_border=true" width="48%" /> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammansoor007&theme=radical&hide_border=true&layout=compact" width="45%" /> </p>
-📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iammansoor007&theme=radical&hide_border=true" width="100%"/>
-🏆 Achievements
-⭐ GitHub Stats Overview
-Public Repositories: 20+
-
-Contributions in Last Year: 500+
-
-Followers: Growing Community
-
-Stars Earned: 50+
-
-💼 Professional Skills
-Category	Technologies
-Frontend	React, Next.js, TypeScript, Tailwind CSS
-Backend	Node.js, Express, Python
-Database	MongoDB, MySQL, Firebase
-E-Commerce	Shopify, Liquid, WordPress
-AI/ML	MediaPipe, TensorFlow
-Tools	Git, GitHub, Vercel, Postman
-🚀 Current Projects
-Building modern web applications with Next.js 14
-
-Exploring AI integration with MediaPipe
-
-Developing Shopify custom themes
-
-📫 Get in Touch
-💼 LinkedIn: themansoorshah
-
-🐦 GitHub: iammansoor007
-
-📧 Email: ammansoor007@gmail.com
-
-<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </div>
-<div align="center"> <b>Profile Views</b><br> <img src="https://profile-counter.glitch.me/iammansoor007/count.svg" /> </div>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iammansoor007&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.vercel.app/?user=iammansoor007&theme=tokyonight&hide_border=true" width="48%" /> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammansoor007&theme=tokyonight&hide_border=true&layout=compact" width="45%" /> </p>
+📈 Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iammansoor007&theme=tokyo-night&hide_border=true" width="100%"/>
+🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=iammansoor007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" />
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </div>
+<div align="center"> <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fiammansoor007&label=Profile%20Views&countColor=%23263759" /> </div>
 ⭐️ From Mansoor Shah
