@@ -1,149 +1,143 @@
-<!-- HEADER -->
-<h1 align="center">Mansoor Shah</h1>
-<h3 align="center">Full-Stack Developer | Modern Web Architect | AI-Integrated Systems</h3>
-
+<!-- CUSTOM SVG HERO BANNER -->
 <p align="center">
-Building scalable, high-performance digital products with modern JavaScript ecosystems.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=250&section=header&text=Mansoor%20Shah&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20Product%20Builder%20%7C%20System%20Architect&descAlignY=65&descSize=18"/>
 </p>
 
+<!-- TYPING HEADER -->
 <p align="center">
-  <a href="mailto:ammansoor007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/themansoorshah">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/iammansoor007">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/i__mansooor">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Systems;Engineering+Modern+Digital+Products;AI-Integrated+Applications;Performance-First+Architecture" />
 </p>
 
 ---
 
-# 💎 About Me
+# 🧠 Founder Bio
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+I’m a full-stack engineer building scalable web systems at the intersection of product, performance, and intelligent automation.
 
-I am a performance-focused Full-Stack Developer specializing in building:
+My focus isn’t just shipping features —  
+it’s designing infrastructure that supports growth.
 
-- ⚡ Scalable SaaS applications  
-- 🛒 High-converting business & e-commerce platforms  
-- 🔐 Secure authentication systems  
-- 📊 Admin dashboards & data systems  
-- 🤖 AI-powered web solutions  
+I approach development like a startup founder:
 
-I combine **engineering discipline**, **modern UI systems**, and **business logic thinking**.
+- Build fast  
+- Architect properly  
+- Scale intelligently  
+- Optimize relentlessly  
 
----
-
-# 🛠 Complete Tech Stack
-
-## 🎨 Frontend
-
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
-## ⚙ Backend
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-## 🗄 Databases
-
-<p>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
-## 🛒 E-Commerce & CMS
-
-<p>
-<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-</p>
-
-## 🤖 AI / Computer Vision
-
-<p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=mediapipe&logoColor=white"/>
-</p>
-
-## 🚀 DevOps & Tools
-
-<p>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+I engineer digital systems designed to generate measurable business impact.
 
 ---
 
-# 🧠 Core Expertise
+# 🚀 Currently Building
 
-✔ System Architecture  
-✔ REST API Development  
-✔ Authentication & Authorization  
-✔ SaaS Application Development  
-✔ Performance Optimization  
-✔ SEO-Structured Applications  
-✔ Headless CMS Integration  
-✔ Booking & Automation Systems  
+### 🏗 Intelligent SaaS Infrastructure
+A modular full-stack architecture built with Next.js and Node.js designed for multi-tenant scalability.
+
+### 🤖 AI-Powered Web Interfaces
+Integrating real-time computer vision and machine learning directly into browser-based applications.
+
+### 📊 Conversion-Optimized Business Platforms
+High-performance web systems designed to increase lead generation and automate workflows.
 
 ---
 
-# 📊 GitHub Analytics
+# 🧩 Product Portfolio
+
+## SaaS Dashboard System
+- Role-based authentication
+- JWT security layer
+- Admin control panel
+- Modular backend structure
+- Scalable REST API design
+
+---
+
+## E-Commerce Optimization Engine
+- Headless architecture
+- Payment gateway integrations
+- Performance optimization
+- SEO-structured routing
+
+---
+
+## Appointment Booking Infrastructure
+- Real-time scheduling logic
+- Admin & user flows
+- Email automation system
+- Database-backed time management
+
+---
+
+## AI Vision Web App
+- TensorFlow integration
+- MediaPipe processing
+- Real-time browser inference
+- Performance-tuned UI rendering
+
+---
+
+# 🛠 Technical Stack
+
+Frontend  
+React • Next.js • TypeScript • Tailwind CSS  
+
+Backend  
+Node.js • Express • REST APIs • JWT  
+
+Database  
+MongoDB • MySQL • Firebase  
+
+AI  
+TensorFlow • MediaPipe  
+
+DevOps  
+Vercel • Netlify • GitHub CI/CD  
+
+---
+
+# 📊 GitHub Intelligence
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iammansoor007&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammansoor007&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammansoor007&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iammansoor007&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iammansoor007&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
 
-# 🎯 Current Focus
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iammansoor007/iammansoor007/output/github-contribution-grid-snake.svg" />
+</p>
+
+> Note: To enable the snake animation, you must add the GitHub Action from:
+> https://github.com/Platane/snk  
+> and configure it in your profile repository.
+
+---
+
+# 🎯 Engineering Focus
 
 - Advanced Next.js architecture  
-- Backend scalability  
-- AI-integrated web systems  
-- Premium UI systems  
+- Distributed backend systems  
+- Secure authentication design  
+- Performance optimization  
+- AI-integrated frontends  
 
 ---
 
-# 🤝 Let's Build Something Powerful
+# 🤝 Connect
 
-If you want:
-
-• A high-converting website  
-• A scalable SaaS platform  
-• A custom web solution  
-• A modern redesign  
-
-📩 **ammansoor007@gmail.com**
+📩 ammansoor007@gmail.com  
+🔗 linkedin.com/in/themansoorshah  
+💻 github.com/iammansoor007  
 
 ---
 
 <p align="center">
-  <strong>Code with precision. Build with purpose.</strong>
+  <strong>Engineering digital infrastructure for modern products.</strong>
 </p>
