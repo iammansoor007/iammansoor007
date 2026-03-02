@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Mansoor Shah</h1>
+<h1 align="center">Syed Mansoor Shah</h1>
 <h3 align="center">Full-Stack Developer | Modern Web Architect | AI-Integrated Systems</h3>
 
 <p align="center">
