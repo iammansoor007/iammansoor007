@@ -117,20 +117,6 @@ I combine **engineering discipline**, **modern UI systems**, and **business logi
 
 ---
 
-# 🏆 Git Awards
-
-<p align="center">
-  <img src="https://git-awards.com/users/iammansoor007/avatar?s=200" width="200" alt="Git Awards Avatar"/>
-</p>
-
-<p align="center">
-  <a href="https://git-awards.com/users/iammansoor007" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Git%20Awards-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
 # 🎯 Current Focus
 
 - Advanced Next.js architecture  
